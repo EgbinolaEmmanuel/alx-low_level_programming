@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print diagonal -  a function that draws a diagonal line on the terminal.
- * Return: Adiagonal line
+ * print-diagonal - a function that draws a diagonal line on the terminal.
+ * Returns: a diagonal line
  */
 
 void print_diagonal(int n);
